@@ -1,0 +1,3 @@
+- [x] Apply Compose Compiler plugin to `app/build.gradle.kts`
+- [x] Verify Gradle sync
+- [x] Create walkthrough

@@ -1,0 +1,4 @@
+- `[x]` Update `libs.versions.toml` with Kotlin 2.0 and Compose Compiler plugin
+- `[x]` Sync Gradle
+- `[x]` Build the project
+- `[x]` Fix source code issues (imports, experimental APIs)

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="accessibility_service_description">FocusLock helps you manage your digital wellbeing by detecting when you open apps and providing gentle reminders to stay focused. All processing happens locally on your device.</string>
+
+    <!-- Other strings... -->
+</resources>
